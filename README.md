@@ -10,11 +10,11 @@ Contact -> https://carllippert.com/contact
 Previous Projects
 
 🤖 Anything AI - Open Source AI Automation Platform
-https://github.com/tryanything-ai/anything
-https://tryanything.xyz
+- https://github.com/tryanything-ai/anything
+- https://tryanything.xyz
 
 🇲🇽 Nuance - Learn Spanish reading the books you love
-https://www.carllippert.com/work/nuance
+- https://www.carllippert.com/work/nuance
 
 🐮 FeedX ( Backed by Techstars ) - Operational SaaS and Feed Marketplace for Livestock Farms.
-https://www.carllippert.com/work/feedx
+- https://www.carllippert.com/work/feedx
